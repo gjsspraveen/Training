@@ -1,5 +1,6 @@
 package com.mav.model;
 
+
 public class FModel {
 	private String fname;
 	private String src;
