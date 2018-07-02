@@ -3,7 +3,7 @@
   <display-name>Repository</display-name>
   <welcome-file-list>
     <welcome-file>Register.jsp</welcome-file>
-    <welcome-file>Register.jsp</welcome-file>
+    
   </welcome-file-list>
   <servlet>
     <servlet-name>Reposervlet</servlet-name>
